@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝕋ℝ𝕀𝔼ℝ-𝕍𝟙;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MR TRIER;RELEASED+01/09/2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="𝟙𝟘𝟘0" height="𝟜𝟝𝟘" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="𝟙𝟘𝟘0" height="𝟜𝟝𝟘" src="https://www.bing.com/images/create/a-man-wearing-a-hood-with-27trier-v127-and-a-laptop-/1-66d5b1a6392b46b29ac459afa74220d4?id=TnwRPHjuqZcz4r1NoKzbcQ%3D%3D&view=detailv2&idpp=genimg&noidpclose=1&thId=OIG1.WS5Dae4xTRSXWafu8cVm&skey=NOCoSjTvFQjmv6u2mLQwkoydUeiqzcNs-YMw94m5PK0&FORM=SYDBIC&ssp=1&safesearch=moderate&setlang=en&cc=XL&PC=SAADAND.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
