@@ -10,11 +10,7 @@
 <p align="center">
 <a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙"><img title="Author" src="https://img.shields.io/badge/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙-𝔾ℝ𝔼𝔼ℕ?style=for-the-badge&logo=github"></a>
 <p/>
-<p align="right">
-<a href="https://github.com/Mrtrier?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/Mrtrier/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/Mrtrier/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/Mrtrier/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+
   
 ***
 
