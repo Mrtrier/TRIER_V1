@@ -10,17 +10,17 @@
 <p align="center">
 <a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙"><img title="Author" src="https://img.shields.io/badge/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙-𝔾ℝ𝔼𝔼ℕ?style=for-the-badge&logo=github"></a>
 <p/>
-<p align="center">
-<a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<p align="right">
+<a href="https://github.com/Mrtrier?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/Mrtrier/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
+<a href="https://github.com/Mrtrier/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
+<a href="https://github.com/Mrtrier/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This ℝ𝕖𝕡𝕠 𝕐𝕆𝕌 𝕀𝔻𝕀𝕆𝕋` And Then [`FORK`](https://github.com/𝕄ℝ 𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/fork) It***
+***1.`𝔽𝕀ℝ𝕊𝕋 𝔽𝕆ℝ𝕂🔥 𝕥𝕙𝕚𝕤 ℝ𝕖𝕡𝕠 𝕐𝕆𝕌 𝕀𝔻𝕀𝕆𝕋` And Then [`FORK`](https://github.com/Mrtrier-𝕍𝟙/fork) It***
 
 ***2.`GET SESSION_ID USING`***
 [`QR SCANNER`](https://the-𝕋ℝ𝕀𝔼ℝ-𝕍𝟙-scanner.onrender.com) OR [`PAIRING CODE`](https://𝕄ℝ𝕋ℝ𝕀𝔼ℝ.vercel.app)
@@ -41,8 +41,7 @@
 **1.𝔻𝔼ℙ𝕃𝕆𝕐 𝕆ℕ ℝ𝔼ℕ𝔻𝔼ℝ**
 - <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-**3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
-- <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 
 
@@ -50,7 +49,7 @@
 
 #### SUPPORT THE PROJECT 
 1. **JOIN OUR SUPPORT GROUP**
-- <a href="https://whatsapp.com/channel/0029Van22Ns9RZAeu2evy33u" target="_blank">
+- <a href="https://chat.whatsapp.com/BaN6rrOtLnUASUQ9rwZcnl" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🚀 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
