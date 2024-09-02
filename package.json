@@ -71,7 +71,7 @@
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
     "trier": "MR TRIER", 
-    "ytdl-core": "github:mr trier/flash-dls"
+    "ytdl-core": "github:mr trier/trier-dls"
   }
 }
 
