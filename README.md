@@ -3,24 +3,24 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝕋ℝ𝕀𝔼ℝ-𝕍𝟙;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MR TRIER;RELEASED+01/09/2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝕋ℍ𝔸ℕ𝕜𝕤 𝕗𝕠𝕣 𝕤𝕚𝕟𝕔𝕖𝕣𝕖𝕝𝕪 𝕔𝕙𝕠𝕤𝕚𝕟𝕘 +𝕋ℝ𝕀𝔼ℝ-𝕍𝟙;𝕄𝕌𝕃𝕋𝕀+𝔻𝔼𝕍𝕀ℂ𝔼+𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ+𝔹𝕆𝕋;ℂℝ𝔼𝔸𝕋𝔼𝔻+𝔹𝕐+𝕄ℝ TRIER;RELEASED+01/09/2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="𝟙𝟘𝟘0" height="𝟜𝟝𝟘" src="https://www.bing.com/images/create/a-man-wearing-a-hood-with-27trier-v127-and-a-laptop-/1-66d5b1a6392b46b29ac459afa74220d4?id=TnwRPHjuqZcz4r1NoKzbcQ%3D%3D&view=detailv2&idpp=genimg&noidpclose=1&thId=OIG1.WS5Dae4xTRSXWafu8cVm&skey=NOCoSjTvFQjmv6u2mLQwkoydUeiqzcNs-YMw94m5PK0&FORM=SYDBIC&ssp=1&safesearch=moderate&setlang=en&cc=XL&PC=SAADAND.jpg">
+    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="𝟙𝟘𝟘0" height="𝟜𝟝𝟘" src="https://github.com/settings/profile.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙"><img title="Author" src="https://img.shields.io/badge/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙-𝔾ℝ𝔼𝔼ℕ?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
+<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
+<a href="https://github.com/𝕄ℝ𝕋ℝ𝕀𝔼ℝ/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This ℝ𝕖𝕡𝕠 𝕐𝕆𝕌 𝕀𝔻𝕀𝕆𝕋` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
 
 ***2.`GET SESSION_ID USING`***
 [`QR SCANNER`](https://the-flash-scanner.onrender.com) OR [`PAIRING CODE`](https://king-france.vercel.app)
