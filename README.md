@@ -27,7 +27,7 @@
 
 #### DEPLOY TO HEROKU 
 **1. 𝔻𝔼ℙ𝕃𝕆𝕐 𝕆ℕ ℍ𝔼ℝ𝕆𝕂𝕌*
-  - <a align="center"><a href="https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="trier-v1-git-main-mr-triers-projects.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
