@@ -1,25 +1,25 @@
 {
-  "name": "Flash-Md",
+  "name": "TRIER-V1",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
-  "type": "commonjs",
+  "main": "Trier.js",
+  "type": "Trierjs",
   "scripts": {
-    "test": "node flash.js",
-    "s": "node flash.js",
-    "flash": "pm2 start flash.js --attach",
-    "franceking": "pm2 start franceking.js --attach",
+    "test": "node trier.js",
+    "s": "node trier.js"
+    "flash": "pm2 start trier.js --attach",
+    "franceking": "pm2 start MRTRIER.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash",
+    "TRIER",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "MR TRIER"
   ],
-  "author": "France King",
+  "author": "MR TRIER",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -70,8 +70,8 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "france": "France-King1", 
-    "ytdl-core": "github:franceking1/flash-dls"
+    "trier": "MR TRIER", 
+    "ytdl-core": "github:mr trier/flash-dls"
   }
 }
 
