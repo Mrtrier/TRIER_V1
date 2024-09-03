@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=purple+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=🄴🄽🄹🄾🅈 🅃🄷🄴 🄼🄴🄶🄰+𝕋ℝ𝕀𝔼ℝ-𝕍𝟙;𝕄𝕌𝕃𝕋𝕀+𝔻𝔼𝕍𝕀ℂ𝔼+𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ+𝔹𝕆𝕋;ℂℝ𝔼𝔸𝕋𝔼𝔻+𝔹𝕐+𝕄ℝ 𝕋ℝ𝕀𝔼ℝ;RELEASED ON>>+01/09/2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="𝟙𝟘𝟘0" height="𝟜𝟝𝟘" src="https://telegra.ph/file/2a4582d5414d35ed1763f.jpg">
+    <img alt="𝕋ℝ𝕀𝔼ℝ-𝕍𝟙" width="1000" height="450" src="https://telegra.ph/file/2a4582d5414d35ed1763f.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/𝕞𝕣𝕥𝕣𝕚𝕖𝕣/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙"><img title="Author" src="https://img.shields.io/badge/𝕋ℝ𝕀𝔼ℝ-𝕍𝟙-𝔾ℝ𝔼𝔼ℕ?style=for-the-badge&logo=github"></a>
